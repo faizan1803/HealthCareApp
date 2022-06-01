@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "917926225731",
+    "firebase_url": "https://careapp-761d4-default-rtdb.firebaseio.com",
+    "project_id": "careapp-761d4",
+    "storage_bucket": "careapp-761d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917926225731:android:79f05fcb5e63a32d53b1f6",
+        "android_client_info": {
+          "package_name": "com.ensias.healthcareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917926225731-7ps3a92obrcvdr4umfmq7bu0nko6mjlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5CF5NC_gBlayISDLXVmQ9R1M3Pazt2LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917926225731-7ps3a92obrcvdr4umfmq7bu0nko6mjlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917926225731:android:e548127b9291dc0853b1f6",
+        "android_client_info": {
+          "package_name": "com.example.tatwa10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917926225731-7ps3a92obrcvdr4umfmq7bu0nko6mjlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5CF5NC_gBlayISDLXVmQ9R1M3Pazt2LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917926225731-7ps3a92obrcvdr4umfmq7bu0nko6mjlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917926225731:android:c2b0b0284cc1407f53b1f6",
+        "android_client_info": {
+          "package_name": "com.mhutshow.daktarlagbe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917926225731-7ps3a92obrcvdr4umfmq7bu0nko6mjlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5CF5NC_gBlayISDLXVmQ9R1M3Pazt2LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917926225731-7ps3a92obrcvdr4umfmq7bu0nko6mjlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

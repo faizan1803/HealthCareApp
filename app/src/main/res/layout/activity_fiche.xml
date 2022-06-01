@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".FicheActivity">
+
+    <EditText
+        android:id="@+id/write_medicine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:fontFamily="@font/poppins_medium"
+        android:textColor="#3552F4"
+        android:textColorHint="#3552F4"
+        android:hint="Medcine Name " />
+
+    <EditText
+        android:id="@+id/write_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:textColor="#3552F4"
+        android:fontFamily="@font/poppins_medium"
+        android:hint="Description"
+        />
+
+    <EditText
+        android:id="@+id/write_prescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:textColor="#3552F4"
+        android:fontFamily="@font/poppins_medium"
+        android:hint="Prescription"
+        />
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Type "
+        android:fontFamily="@font/poppins_medium"
+        android:layout_gravity="center"
+        android:textColor="#3552F4"
+        android:layout_marginTop="16dp"
+        android:textSize="19sp"/>
+
+    <Spinner
+        android:id="@+id/write_type_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp"
+        android:spinnerMode="dropdown"
+        android:textColor="#000000">
+    </Spinner>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:gravity="center|bottom">
+    <Button
+        android:id="@+id/button_add_Slip"
+        android:layout_width="match_parent"
+        android:fontFamily="@font/poppins_medium"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_green"
+        android:text="Done " />
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

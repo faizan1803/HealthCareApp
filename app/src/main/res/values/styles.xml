@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.NoActionBar">
+
+        <item name="colorPrimary">#3752EC</item>
+        <item name="colorPrimaryDark">#3450ED</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+
+    </style>
+
+    <style name="SearchViewStyle" >
+        <item name="android:editTextColor">#FFFFFF</item>
+    </style>
+
+</resources>
